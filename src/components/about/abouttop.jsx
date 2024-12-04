@@ -1,4 +1,4 @@
-import peopleLaptop from '/assets/people-laptop.png'
+import peopleLaptop from '../../assets/people-laptop.png'
 
 export default function Abouttop() {
     return(
