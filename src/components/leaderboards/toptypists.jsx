@@ -1,4 +1,4 @@
-import Trophy from '/assets/trophy.png'
+import Trophy from '/assets/Trophy.png'
 import arrowright from '/assets/chevron-right.svg'
 export default function Toptypists() {
     return(
